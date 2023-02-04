@@ -1,10 +1,5 @@
-.container {
-    width: 100%;
 
-
-}
-
-.tagline {
+.tagline {      
     background-image: url(https://img.freepik.com/vector-premium/focos-aislados-sobre-fondo-negro-efecto-luz-vectorial-lugar-vacio-mostrar-proyectores-blancos_185386-1002.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -53,17 +48,14 @@ h2 {
     object-fit: cover;
 }
 
-
-
-
 .saraimagen {
     border-radius: 350px;
-    width: 180px;
+    width: 160px;
 }
 
 
 .Contact {
-    margin-left: 500px;
+    margin-left: 90px;
     margin-top: 24px;
     margin-bottom: 50px;
     justify-content: center;
@@ -73,7 +65,7 @@ textarea {
     resize: none;
 }
 
-button {
+.boton {
     background: black;
     cursor: pointer;
     border: none;
@@ -81,10 +73,14 @@ button {
     color: white;
     font-size: 15px;
     font-weight: bold;
-    width: 200px;
+    width: 150px;
     border-radius: 12px;
     margin-top: 15px;
-    margin-left: 700px;
+    
 
 }
 
+.copyright{
+    font-size:12px;
+    font-weight: bold;
+}
