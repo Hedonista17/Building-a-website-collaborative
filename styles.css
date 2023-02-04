@@ -1,4 +1,7 @@
-
+.container{
+ align-items: center;
+ justify-content: center;
+}
 .tagline {
 background-image:url(https://img.freepik.com/vector-premium/focos-aislados-sobre-fondo-negro-efecto-luz-vectorial-lugar-vacio-mostrar-proyectores-blancos_185386-1002.jpg);
 background-size:cover;
@@ -9,6 +12,7 @@ width: 936px;
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+    
 }
 
 .tagline > h1, h2{
